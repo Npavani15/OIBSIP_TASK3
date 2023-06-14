@@ -1,0 +1,19 @@
+input {
+    border-radius: 15px;
+    border: 3px dashed goldenrod;
+    font-size: 15px;
+    line-height: 2;
+    outline: none;
+    font-weight: bold;
+    color: #FFFF;
+    padding: 5px 10px 5px 10px;
+    background-color: black;
+  }
+    
+  h1 {
+    color: blueviolet;
+    font-weight: bold;
+    ;
+    
+  }
+  
